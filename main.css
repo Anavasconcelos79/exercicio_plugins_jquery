@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-indent: 700px;
+}
+
+header h1 {
+    background-color: rgb(69, 69, 158);
+    padding: 15px ;
+    margin: 3px;
+    color: #fff;
+    
+    
+}
+
+.form-campo {
+    margin-bottom: 16px;
+    margin: 15px 3px;
+}
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+}
+
+.form-campo input {
+    width: 100%;
+    display: block;
+    padding: 8px;
+}
+form {
+    max-width: 360px;
+}
+
+.cadastro button {
+    width: 98%;
+    padding:8px;
+    margin: 3px;
+    background-color: #119759;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    font-style: italic;
+    
+}
